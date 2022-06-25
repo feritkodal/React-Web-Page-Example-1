@@ -6,5 +6,5 @@ Bu projede React kullanılarak, [dribbble](https://dribbble.com/) üzerinden pay
 - Sayfanın SEO ayarlarının kurgusu için [react-helmet](https://github.com/nfl/react-helmet) kullanılmıştır.
 - Proje bir 404 sayfası içermektedir.
 
-Projenin çalışır halini görüntülemek için [tıklayınız.](https://vercel.com/feritkodal/react-web-page-example-1)
+Projenin çalışır halini görüntülemek için [tıklayınız.](https://react-web-page-example-1.vercel.app/)
 
