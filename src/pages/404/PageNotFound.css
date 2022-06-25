@@ -1,0 +1,39 @@
+.deneme {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.text {
+    color: #c4d855;
+    font-weight: 600;
+}
+
+.text2 {
+    color: #c4d855;
+    font-weight: 600;
+    text-decoration: underline;
+
+}
+
+.text2:hover {
+    color: #1707a7;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.img {
+    height: 500px;
+    width: 500px;
+}
+
+@media screen and (max-width: 700px) {
+    .text {
+        margin-top: 50px;
+    }
+
+    .img {
+        height: 370px;
+        width: 370px;
+        margin-top: 50px;
+    }
+}
